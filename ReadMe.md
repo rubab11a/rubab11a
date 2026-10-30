@@ -1,29 +1,6 @@
 
 <div align="center">
 
-# ✨ RUBAB IMRAN KHAN
-
-### 💻 Frontend Web Developer | Creative Problem Solver
-
-**Building beautiful, responsive & user-friendly digital experiences.**
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=F08A65&center=true&vCenter=true&width=550&lines=Frontend+Web+Developer;Creative+UI+Designer;Always+Learning+%26+Growing;Turning+Ideas+Into+Reality" />
-</p>
-
-<p>
-  <a href="https://github.com/rubab11a">
-    <img src="https://img.shields.io/badge/GitHub-Rubab11a-181717?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Status-Currently%20Learning-DA967B?style=for-the-badge" />
-</p>
-
-</div>
-
----
-
-<div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:FFF1E8,50:F5C5AC,100:D98568&text=RUBAB%20IMRAN%20KHAN&fontSize=42&fontColor=633D32&fontAlignY=45&desc=FRONTEND%20WEB%20DEVELOPER%20%7C%20CREATIVE%20PROBLEM%20SOLVER&descSize=14&descAlignY=65&animation=fadeIn" />
 
 <br/>
