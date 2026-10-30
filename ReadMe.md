@@ -1,4 +1,4 @@
-💙 RUBAB IMRAN KHAN
+👋 Hi, I'm Rubab Imran Khan💙
 Frontend Developer | Creative Web Developer
 Welcome to my GitHub profile! 👋
 
