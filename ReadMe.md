@@ -22,6 +22,27 @@
 
 ---
 
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:FFF1E8,50:F5C5AC,100:D98568&text=RUBAB%20IMRAN%20KHAN&fontSize=42&fontColor=633D32&fontAlignY=45&desc=FRONTEND%20WEB%20DEVELOPER%20%7C%20CREATIVE%20PROBLEM%20SOLVER&descSize=14&descAlignY=65&animation=fadeIn" />
+
+<br/>
+
+### ✨ Turning Creative Ideas Into Digital Experiences
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&pause=1000&color=D98568&center=true&vCenter=true&width=500&lines=Frontend+Web+Developer;Creative+UI+Designer;Responsive+Website+Creator;Always+Learning+%26+Growing" />
+
+<br/>
+
+<a href="https://github.com/rubab11a">
+<img src="https://img.shields.io/badge/Explore_My_GitHub-633D32?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=F0B49B" width="80%"/>
+
+</div>
+
+
 # 💫 About Me:
 💻 Interested in modern Frontend Development 🎨 Passionate about UI/UX and responsive designs 🌱 Always learning and improving my coding skills ⚡ Love building creative web projects 🤝 Open to collaboration and new opportunities 🛠️ My Tech Stack
 
