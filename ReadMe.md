@@ -1,10 +1,10 @@
-👋 Hi, I'm Rubab Imran Khan💙
+## 👋 Hi, I'm Rubab Imran Khan💙
 Frontend Developer | Creative Web Developer
 Welcome to my GitHub profile! 👋
 
 I'm a passionate Frontend Developer who loves building modern, responsive, and user-friendly websites. I enjoy creating beautiful interfaces and turning ideas into real web experiences.
 
-🚀 About Me
+## 🚀 About Me
 💻 Interested in modern Frontend Development
 🎨 Passionate about UI/UX and responsive designs
 🌱 Always learning and improving my coding skills
