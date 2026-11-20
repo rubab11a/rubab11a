@@ -1,3 +1,110 @@
+
+<div align="center">
+
+<img src="YOUR_PROFILE_IMAGE_URL" width="220" height="220" style="border-radius:50%;" />
+
+# RUBAB IMRAN KHAN
+
+### Frontend Web Developer | Creative Problem Solver
+
+✨ Turning Creative Ideas Into Digital Experiences ✨
+
+**Always Learning & Growing**
+
+<a href="https://github.com/rubab11a">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+# 🌟 About Me
+
+💻 Interested in modern Frontend Development
+
+🎨 Passionate about UI/UX and responsive designs
+
+🌱 Always learning and improving my coding skills
+
+⚡ Love building creative web projects
+
+🤝 Open to collaboration and new opportunities
+
+---
+
+# 💜 My Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,git,github,vscode"/>
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rubab11a&show_icons=true&theme=midnight-purple" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rubab11a&theme=midnight-purple" />
+
+</div>
+
+---
+
+# 🌐 Socials
+
+<p align="center">
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### 💜 Thanks for Visiting My Profile!
+
+⭐ Keep Learning | Keep Building | Keep Growing ⭐
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:FFF1E8,50:F5C5AC,100:D98568&text=RUBAB%20IMRAN%20KHAN&fontSize=42&fontColor=633D32&fontAlignY=45&desc=FRONTEND%20WEB%20DEVELOPER%20%7C%20CREATIVE%20PROBLEM%20SOLVER&descSize=14&descAlignY=65&animation=fadeIn" />
