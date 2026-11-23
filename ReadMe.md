@@ -1,5 +1,21 @@
 <div align="center">
 
+  <h1>Rubab Imran Khan</h1>
+
+  <h3>Frontend Web Developer | Creative Problem Solver</h3>
+
+  <p>
+    ✨ Turning Creative Ideas Into Digital Experiences ✨
+  </p>
+
+  <h2>Frontend Web Developer</h2>
+
+</div>
+
+
+
+<div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:FFF1E8,50:F5C5AC,100:D98568&text=RUBAB%20IMRAN%20KHAN&fontSize=42&fontColor=633D32&fontAlignY=45&desc=FRONTEND%20WEB%20DEVELOPER%20%7C%20CREATIVE%20PROBLEM%20SOLVER&descSize=14&descAlignY=65&animation=fadeIn" />
 
 <br/>
