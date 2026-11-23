@@ -1,17 +1,34 @@
 <div align="center">
 
-  <h1>Rubab Imran Khan</h1>
+  <h1 style="
+    font-size: 48px;
+    font-weight: 900;
+    letter-spacing: 3px;
+    background: linear-gradient(90deg, #c084fc, #f0abfc, #ff8a65);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 0 20px rgba(192,132,252,0.4);
+  ">
+    ✨ RUBAB IMRAN KHAN ✨
+  </h1>
 
-  <h3>Frontend Web Developer | Creative Problem Solver</h3>
+  <h3>
+    💜 FRONTEND WEB DEVELOPER 💜
+  </h3>
 
   <p>
-    ✨ Turning Creative Ideas Into Digital Experiences ✨
+    <i>✦ Turning Creative Ideas Into Digital Experiences ✦</i>
   </p>
 
-  <h2>Frontend Web Developer</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Creative+Problem+Solver;Frontend+Developer;Always+Learning+New+Things;Building+Beautiful+Websites" />
+
+  <br/>
+
+  <a href="https://github.com/rubab11a">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-9B59B6?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
 </div>
-
 
 
 <div align="center">
